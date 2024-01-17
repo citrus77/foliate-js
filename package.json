@@ -1,0 +1,9 @@
+{
+    "name": "foliate-js",
+    "private": false,
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+      "start": "npx http-server ./reader.html"
+    }
+  }
